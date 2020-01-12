@@ -7,3 +7,7 @@ end
 def toadstool
   puts $status
 end
+
+def any_phrase(phrase)
+  puts "Do A Barrel Roll!\n"
+end
